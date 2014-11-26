@@ -1,6 +1,6 @@
 package App::VideoHost::Video::Storage;
 {
-  $App::VideoHost::Video::Storage::VERSION = '0.143301';
+  $App::VideoHost::Video::Storage::VERSION = '0.143302';
 }
 
 use Moose;
