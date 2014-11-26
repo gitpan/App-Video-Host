@@ -26,7 +26,7 @@ my %WriteMakefileArgs = (
     "Moose" => "2.1005"
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.143300",
+  "VERSION" => "0.143301",
   "test" => {
     "TESTS" => "t/*.t"
   }

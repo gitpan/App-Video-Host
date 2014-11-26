@@ -1,6 +1,6 @@
 package App::VideoHost::Controller::Root;
 {
-  $App::VideoHost::Controller::Root::VERSION = '0.143300'; # TRIAL
+  $App::VideoHost::Controller::Root::VERSION = '0.143301';
 }
 
 use Mojo::Base 'Mojolicious::Controller';

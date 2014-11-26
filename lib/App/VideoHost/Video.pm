@@ -1,6 +1,6 @@
 package App::VideoHost::Video;
 {
-  $App::VideoHost::Video::VERSION = '0.143300'; # TRIAL
+  $App::VideoHost::Video::VERSION = '0.143301';
 }
 
 use Moose;

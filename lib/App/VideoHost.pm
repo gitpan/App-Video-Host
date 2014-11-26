@@ -1,6 +1,6 @@
 package App::VideoHost;
 {
-  $App::VideoHost::VERSION = '0.143300'; # TRIAL
+  $App::VideoHost::VERSION = '0.143301';
 }
 
 use Mojo::Base 'Mojolicious';

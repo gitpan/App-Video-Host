@@ -12,7 +12,6 @@ lib/App/VideoHost/Controller/Root.pm
 lib/App/VideoHost/Video.pm
 lib/App/VideoHost/Video/Storage.pm
 lib/App/VideoHost/app-video_host.conf
-lib/App/VideoHost/public/index.html
 lib/App/VideoHost/templates/example/welcome.html.ep
 lib/App/VideoHost/templates/include/video.html.ep
 lib/App/VideoHost/templates/layouts/default.html.ep
